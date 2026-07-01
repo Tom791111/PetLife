@@ -1,4 +1,4 @@
-# PetLife v9 Enterprise（企業版 / 畢業專題展示版）
+# PetLife
 
 PetLife 是以寵物整合平台為主題的 Java Swing 專題系統，使用 **JDK 11 + MySQL 8.0 + Maven + Eclipse + WindowBuilder** 製作，架構遵守 **MVC + DAO Pattern**。
 
